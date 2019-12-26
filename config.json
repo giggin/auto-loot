@@ -1,7 +1,7 @@
 {
     "version": 1,
     "data": {
-        "enable": false,
+        "enable": true,
         "enableAuto": true,
         "lootDelay": 400,
         "loopInterval": 300,
