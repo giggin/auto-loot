@@ -1,0 +1,18 @@
+{
+    "author": "seraphinush . Saegusae",
+    "conflict": ["loot","reserve-loot"],
+    "description": "tera-toolbox module to loot items automatically",
+    "disableAutoUpdate": false,
+    "donationUrl": "https://paypal.me/matteoiacovacci",
+    "name": "auto-loot-old",
+    "options": {
+        "niceName": "auto-loot",
+        "reloadable": true,
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/giggin/auto-loot/master/"],
+    "supportUrl": "https://github.com/giggin/auto-loot/blob/master/README.md",
+    "version": "1.44.02"
+}

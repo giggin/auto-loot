@@ -1,0 +1,17 @@
+{
+    "files": {
+        "README.md": "c4ec4abab9f7be5183e84b4c01dec9ac808099bfcf50595e4c514fdc765cff06",
+        "config.js": "9d0c52ae013fec3d5e0b56e4a7a6764029643a3b84b3e2de955c76e1d1420c65",
+        "config.json": "747969327ff9f7267cefd0863ed9032923d881e42018462c3440654bc8c216b3",
+        "index.js": "5e099b3b963e4755a02802f822d15269b90a4b286e77eddc82d802d6da6b095c",
+        "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
+        "module.json": "954d48d0b09065d8e067722269c322d6b1f8cce81cfad9796d108821086f5a14",
+        "settings.js": "90785ab063e4126954c28be28110c2704d9efd57ea69eb8cb5baa0d9669e85a5"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_TRY_LOOT_DROPITEM": 4,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_SPAWN_DROPITEM": 8
+    }
+}
