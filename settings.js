@@ -31,11 +31,6 @@ const DefaultSettings = {
 	98778, // Black Core Nodule
 	98779, // Black Core Shard
 	155546, // Arborean Crystal Box
-	206858, // Naslow's Treasure Map
-	206859, // Naslow's Treasure Map
-	206860, // Naslow's Treasure Map
-	206861, // Naslow's Treasure Map
-	206862 // Naslow's Treasure Map
   ]
 };
 
