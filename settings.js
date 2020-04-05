@@ -31,8 +31,11 @@ const DefaultSettings = {
 	98778, // Black Core Nodule
 	98779, // Black Core Shard
 	155546, // Arborean Crystal Box
-	602173, // Kelsaik's Avatar's Essence
-	602175 // Kelsaik's Avatar's Essence
+	206858, // Naslow's Treasure Map
+	206859, // Naslow's Treasure Map
+	206860, // Naslow's Treasure Map
+	206861, // Naslow's Treasure Map
+	206862 // Naslow's Treasure Map
   ]
 };
 
