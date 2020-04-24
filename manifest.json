@@ -1,10 +1,10 @@
 {
     "files": {
         "README.md": "c4ec4abab9f7be5183e84b4c01dec9ac808099bfcf50595e4c514fdc765cff06",
-        "config.json": "67b1d36180d1c81f2535a064a7c36a236aecb6d22b616e2f8d1e51d093197fce",
+        "config.json": "df23f2f1f31d5de5812719a43aa4675912423375e02d190e40568f1158f9c2da",
         "index.js": "5e099b3b963e4755a02802f822d15269b90a4b286e77eddc82d802d6da6b095c",
         "module.json": "954d48d0b09065d8e067722269c322d6b1f8cce81cfad9796d108821086f5a14",
-        "settings.js": "b14ede591409281113b8beada9e4096b265434aacbc76e64c3dd89046fd8b7a1"
+        "settings.js": "0823535ed96717afa348e2458c932c32cc914c728f9a09ec58610369de3b382c"
     },
     "defs": {
         "C_PLAYER_LOCATION": 5,

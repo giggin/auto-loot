@@ -16,20 +16,11 @@ const DefaultSettings = {
 	8005, // Healing Mote
 	8008, 8009, 8010, 8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019, 8020, 8021, 8022, // Arun's Vitae I-XV Mote
 	8023, // Arun's Tear Mote
-	88875, // Annihilation Brooch
-	88876, // Annihilation Brooch
-	88877, // Annihilation Brooch
-	88878, // Annihilation Brooch
-	88879, // Dark Light Brooch
-	88880, // Dark Light Brooch
-	88881, // Dark Light Brooch
-	88882, // Dark Light Brooch
 	89030, // Tithus's Relic
 	89020, // Elinu's Relic
 	89130, // Dagon's Halidom
 	89120, // Karas's Halidom
-	98778, // Black Core Nodule
-	98779, // Black Core Shard
+	98711, // Argog's Weapon Crate
 	155546, // Arborean Crystal Box
   ]
 };
