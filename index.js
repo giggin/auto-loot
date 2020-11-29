@@ -96,7 +96,7 @@ module.exports = function AutoLootOld(mod) {
     location = e.loc;
   });
 
-  mod.hook('S_SPAWN_DROPITEM', 8, { order: 10 }, (e) => {
+  mod.hook('S_SPAWN_DROPITEM', 9, { order: 10 }, (e) => {
     if (!settings.blacklist.includes(e.item)) {
       loot[e.gameId] = e;
     }
